@@ -1,0 +1,5 @@
+﻿<computers>
+  <computer name="dell " harddiskname="seagate" harddisksize="750" />
+  <computer name="hp" harddiskname="seagate" harddisksize="800" />
+  <computer name="toshiba" harddiskname="seagate" harddisksize="650" />
+</computers>
